@@ -29,9 +29,3 @@ This portfolio highlights my journey as a Data Analyst and Computer Science stud
 - **Formspree**: Handling contact form submissions.
 - **GitHub Pages**: Hosting the static site.
 
-## Setup and Installation
-Since this is a static website hosted on GitHub Pages, you don’t need to install anything to view it online. To run it locally or contribute:
-
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/codewith-samuel/Portfolio-websitee.git
